@@ -6,7 +6,7 @@ A simple list of disposable and temporary email domains.
 
 **Raw list URL:**
 
-https://raw.githubusercontent.com/jLynx/disposable-email-domains/main/domains.txt
+https://raw.githubusercontent.com/jLynx/disposable-email-blocklist/refs/heads/main/domains.txt
 
 ### Examples
 
